@@ -27,4 +27,4 @@ B.Tech @IT Student
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash-2006?theme=dark&font=Marcellus&ext=heatmap)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakashSelvadurai006&bg_color=0d1117&color=f2f2f2&line=1f6feb&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
