@@ -17,9 +17,11 @@ B.Tech @IT Student
 
 
 ### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/Lenovo-Laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Intel-Core_i5--13450HX-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/RAM-16GB-555555?style=for-the-badge"/>
 <img height="30" src="https://img.shields.io/badge/SSD-475GB-555555?style=for-the-badge"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
