@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Prakash S
+## Hi there 👋 I am Prakash S
 
 B.Tech @IT Student
 <img align="right" width="300" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -24,7 +24,20 @@ B.Tech @IT Student
 <img height="30" src="https://img.shields.io/badge/SSD-475GB-555555?style=for-the-badge"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28"/>
+  LeetCode — Prakash S
+</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash-2006?theme=dark&font=Marcellus&ext=heatmap)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakashSelvadurai006&bg_color=0d1117&color=f2f2f2&line=1f6feb&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
+  GitHub — Prakash S
+</h2>
+
+<p align="center">
+  <a href="https://github.com/PrakashSelvadurai006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashSelvadurai006&bg_color=0d1117&color=f2f2f2&line=1f6feb&point=f7f7f7&area=true&hide_border=true" alt="Prakash S's GitHub Activity Graph"/>
+  </a>
+</p>
