@@ -29,7 +29,15 @@ B.Tech @IT Student
   LeetCode — Prakash S
 </h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Prakash-2006?theme=dark&font=Marcellus&ext=heatmap)
+<div align="center">
+  <a href="https://leetcode.com/u/Prakash-2006/">
+    <img
+      src="https://leetcard.jacoblin.cool/Prakash-2006?theme=dark&font=Marcellus&ext=heatmap"
+      alt="Prakash S LeetCode Stats"
+      width="70%"
+    />
+  </a>
+</div>
 
 <h2 align="center">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
