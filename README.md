@@ -39,13 +39,4 @@ B.Tech @IT Student
   </a>
 </div>
 
-<h2 align="center">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
-  GitHub — Prakash S
-</h2>
 
-<p align="center">
-  <a href="https://github.com/PrakashSelvadurai006">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashSelvadurai006&bg_color=0d1117&color=f2f2f2&line=1f6feb&point=f7f7f7&area=true&hide_border=true" alt="Prakash S's GitHub Activity Graph"/>
-  </a>
-</p>
